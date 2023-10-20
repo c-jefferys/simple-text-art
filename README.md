@@ -9,7 +9,7 @@ Navigate the menu by inputting the first letter of your desired feature. Prompts
 
 ## Features
 ### Load
-Gets a file name from the user. If the file can be opened for reading, the file's contents are loaded into the canvas. ***The file is a TXT file located in the SavedFiles folder.***
+Gets a file name from the user. If the file can be opened for reading, the file's contents are loaded into the canvas. ***The file is a .txt file located in the SavedFiles folder.***
 
 ### Edit
 Allows user to edit the canvas by moving the cursor around and entering characters. Editing continues until the ESC key is pressed. 
@@ -24,4 +24,4 @@ Replaces all instances of a character in the canvas.
 Uses a copy of the canvas to revert the canvas back to its previous state (before the most recent change).
 
 ### Save
-Gets a file name from the user. If the file can be opened for writing, the contents of the canvas are written into the file. ***The file is a TXT located in the SavedFiles folder.***
+Gets a file name from the user. If the file can be opened for writing, the contents of the canvas are written into the file. ***The file is a .txt file located in the SavedFiles folder.***
