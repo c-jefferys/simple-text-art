@@ -1,6 +1,9 @@
 # Text Art
 This program allows you to draw, edit, load, and save ASCII art in a canvas in the terminal.
 
+## DISCLAIMER
+**This program is only compatible with Windows machines since it utilizes Windows-specific header files.**
+
 ## NOTE
 ***The SavedFiles folder is necessary for loading and saving text art. The folder already has some art included, which can be loaded into the canvas and freely edited.***
 
