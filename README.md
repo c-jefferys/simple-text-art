@@ -28,3 +28,6 @@ Uses a copy of the canvas to revert the canvas back to its previous state (befor
 
 ### Save
 Gets a file name from the user. If the file can be opened for writing, the contents of the canvas are written into the file. ***The file is a .txt file located in the SavedFiles folder.***
+
+## Concepts
+Two-Dimensional Array Usage, File Input/Output, String Manipulation, Array Manipulation, Terminal Output Manipulation
